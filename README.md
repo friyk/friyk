@@ -22,4 +22,4 @@ Currently, I am looking for roles in **Network Engineering** and **Data Center I
 ### 📬 Let's Connect
 * **LinkedIn:** [linkedin.com/in/wesleyngah](https://linkedin.com/in/wesleyngah)
 * **Email:** Wesleyngah@gmail.com
-* **Resume:** [View my Resume](link_to_resume_pdf_if_hosted)
+* **Resume:** [View my Resume](https://github.com/friyk/friyk/blob/main/RESUME.pdf)
