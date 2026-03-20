@@ -14,7 +14,7 @@ Currently, I am looking for roles in **Network Engineering** and **Data Center I
 
 * **[AMR Real-Time Telemetry Sensor](https://github.com/friyk/AMR-Temperature-Sensor)** 
   * Developed a battery temperature telemetry sensor during my time at DSTA to detect thermal runaway anomalies, ensuring hardware safety and operational continuity.
-* **Autonomous Luggage Concierge (B.HIVE)** **[Weighing and Loading](https://github.com/friyk/2026S23CapstoneBHIVELOADANDWEIGH)**, **[AMR](https://github.com/friyk/2026S23CapstoneBHIVEAMR)** 
+* **Autonomous Luggage Concierge (B.HIVE)** **[AMR](https://github.com/friyk/2026S23CapstoneBHIVEAMR)** **[Weighing and Loading](https://github.com/friyk/2026S23CapstoneBHIVELOADANDWEIGH)**, 
   * Architected a distributed communications network with a Jetson Orin Nano using ROS 2, managing real-time data publishing/subscribing for an industry-sponsored robotics ecosystem.
 * **[Hardware Security: CSRNG](https://github.com/friyk/DSL-30.110)** 
   * Designed a Cryptographically Secure Random Number Generator utilizing environmental radiation. Co-authored and published the hardware architecture and statistical validation findings on [IEEE](https://doi.org/10.1109/TENCON66050.2025.11375162).
